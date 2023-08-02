@@ -19,7 +19,6 @@ main{
 }
 
 .step-box{
-    width: 300px;
     padding: 10px;
     position: relative;
     margin-right: 30px;
@@ -29,7 +28,7 @@ main{
 .step-image1{
     height: 150px;
     width: 300px;
-    background-image: url(img/flow01.png);
+    background-image: url(img1/flow01.png);
     background-size: cover;
     background-position: bottom;
 }
@@ -37,7 +36,7 @@ main{
 .step-image2{
     height: 150px;
     width: 300px;
-    background-image: url(img/flow02.png);
+    background-image: url(img1/flow02.png);
     background-size: cover;
     background-position: bottom;
 }
@@ -45,7 +44,7 @@ main{
 .step-image3{
     height: 150px;
     width: 300px;
-    background-image: url(img/flow03.png);
+    background-image: url(img1/flow03.png);
     background-size: cover;
     background-position: bottom;
 }
@@ -85,9 +84,27 @@ footer{
         width: 90%;
         margin: 0 auto;
         margin-bottom: 20px;
+    }
+    
+    .step-image1{
+        width: 100%;
+        background-size: cover;
+        background-position: bottom;
+        margin-bottom: 20px;
+    }
+    
+    .step-image2{
+        width: 100%;
+        background-size: cover;
+         background-position: bottom;
+         margin-bottom: 20px;
 
     }
-
+    .step-image3{
+        width: 100%;
+        background-size: cover;
+        background-position: bottom;
+    }
 
     footer{
         width: 100%;
