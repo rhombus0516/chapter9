@@ -81,25 +81,22 @@ footer{
     }
 
     .step-box{
-        width: 90%;
         margin: 0 auto;
         margin-bottom: 20px;
     }
-    
+
     .step-image1{
         width: 100%;
         background-size: cover;
         background-position: bottom;
-        margin-bottom: 20px;
     }
-    
+
     .step-image2{
         width: 100%;
         background-size: cover;
-         background-position: bottom;
-         margin-bottom: 20px;
-
+        background-position: bottom;
     }
+    
     .step-image3{
         width: 100%;
         background-size: cover;
